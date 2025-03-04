@@ -1,8 +1,8 @@
 {
   "name": "servidor-api",
   "version": "1.0.0",
-  "description": "<--Rotas - Projeto EasyCar-->",
-  "main": "sqlite.js",
+  "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,10 +10,16 @@
     "type": "git",
     "url": "git+https://github.com/zenaldo-oliveira/servidor-api.git"
   },
-  "author": "",
+  "author": "Zenaldo Pereira de Oliveira",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/zenaldo-oliveira/servidor-api/issues"
   },
-  "homepage": "https://github.com/zenaldo-oliveira/servidor-api#readme"
+  "homepage": "https://github.com/zenaldo-oliveira/servidor-api#readme",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "sqlite3": "^5.1.7"
+  }
 }
