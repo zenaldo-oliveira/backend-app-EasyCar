@@ -1,4 +1,4 @@
-                       --> Rotas - Projeto EasyCa <--
+                       --> Rotas - Projeto EasyCa <--  Projeto em estaus de contrução
 
 [x] Consultar se existe corrida pedente (hoje) para o usuario logado
 GET -> /rides
