@@ -29,6 +29,6 @@ PUT -> /rides/123/cancel
 
 ## Busines Rules (Regras de Negocio)
 
-[ ] O usuario do pode pedir uma carona por vez
+[x] O usuario do pode pedir uma carona por vez
 
-[ ] O Motorista só pode aceitar uma carona por vez
+[x] O Motorista só pode aceitar uma carona por vez
